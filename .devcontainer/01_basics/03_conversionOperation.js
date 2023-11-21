@@ -20,3 +20,17 @@ let score ="22";
  let someNumber =33;
  let stringnum = String(someNumber);
  console.log(typeof stringnum);
+
+  //****Operation*****//
+  let str1 = "hello";
+  let str2 = "shubham";
+  let str3 = (str1 + str2);
+  console.log(str3);
+
+  console.log("1"+2);
+  console.log(1 + "2");
+  console.log(1 +2 +"3");
+
+  let gameCounter =100;
+  ++gameCounter;
+  console.log(gameCounter);
