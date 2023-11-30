@@ -20,6 +20,8 @@ function sayMyName(){
 function addTwoNumbers(number1, number2){
     let result =(number1 +number2) 
     return result; 
+    // when function execute then function is return
+    //after function  return nothing execute
            
 }
  const  result =addTwoNumbers(3,4);  //it is call argument
